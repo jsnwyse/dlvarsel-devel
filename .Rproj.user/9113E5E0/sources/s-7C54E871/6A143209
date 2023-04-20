@@ -1,0 +1,26 @@
+{
+    "id": "6A143209",
+    "path": "~/Dropbox/githubrepos/dlvarsel/src/distlag_interface.c",
+    "project_path": "src/distlag_interface.c",
+    "type": "c",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1681568315775.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "634,33",
+        "scrollLine": "0"
+    },
+    "folds": "272|7|417|6|\n420|7|599|6|\n",
+    "lastKnownWriteTime": 1681942166,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681942166600,
+    "read_only": false,
+    "read_only_alternatives": []
+}

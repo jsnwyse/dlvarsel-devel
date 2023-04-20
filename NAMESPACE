@@ -1,0 +1,9 @@
+useDynLib(dlvarsel)
+
+importFrom( splines, bs ) 
+importFrom(stats, as.formula, model.matrix, rexp, rnorm)
+
+export( dlvarsel )
+export( dlprior )
+export( dlstart )
+export( dlcdfALD )

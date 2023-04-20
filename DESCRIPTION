@@ -1,0 +1,15 @@
+Package: dlvarsel
+Version: 0.0.1
+Type: Package
+Title: Bayesian Modelling and Variable Selection Unbalanced Binary Data in Distributed Lag Modelling
+Date: 2023-04-15
+Authors@R: c( person( "Jason", "Wyse", email = "wyseja@tcd.ie", role = c("aut", "cre") ), person("Daniel", "Dempsey", email = "dempsed1@tcd.ie", role = c("aut") ) )
+Description: Modelling of possibly unbalanced binary data for distributed lag modelling through use of Bayesian quantile regression. Variable selection is possible and useful for quantifying potentialities of impacts of environmental exposures on binary responses.
+Depends: R (>= 2.10), splines
+License: GPL-3
+NeedsCompilation: yes
+Maintainer: Jason Wyse <wyseja@tcd.ie>
+Packaged: 2023-04-15 06:39:56 UTC; jason
+Author: Jason Wyse [aut, cre],
+  Daniel Dempsey [aut]
+Repository: 
